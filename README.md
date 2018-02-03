@@ -5,7 +5,7 @@ Course Description
 
 Design, definition and implementation of programming languages. Programming language paradigms; syntax, attribute grammars, typing; axiomatic, operational and denotational semantics; correctness proofs; implementation techniques, virtual machines; design and implementation of Domain-Specific Languages. code generation and optimization.
 
-Course Assignment
+Course Assignments
 
 1.Parametrized quicksort. Languages: Rust, TypeScript, OCaml, Prolog.
 
