@@ -1,5 +1,5 @@
 # CAS706-Programming-Languages
-This is a graduate course I took in fall 2017 in McMaster Univeristy.
+This is a graduate course I took in fall 2017 in McMaster Univerisity.
 
 Course Description
 
