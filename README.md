@@ -8,7 +8,10 @@ Design, definition and implementation of programming languages. Programming lang
 Course Assignment
 
 1.Parametrized quicksort. Languages: Rust, TypeScript, OCaml, Prolog.
+
 2.Lambda calculus interpreter. Languages: Lua, Scala, Haskell.
+
 3.Typed Lambda calculus interpreter. Languages: Rust, Swift or Squeak.
+
 4.Scripting/Programming languages. Perl, python.
 
