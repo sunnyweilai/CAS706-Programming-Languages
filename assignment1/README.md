@@ -1,4 +1,4 @@
-#Parametrized quicksort
+# Parametrized quicksort
 
 Generic Quicksort. (Rust,Typescript,Prolog,Ocaml)
 
