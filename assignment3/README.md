@@ -1,5 +1,5 @@
 # Typed Lambda calculus interpreter
-Your term language should be based on the same term language as A2. The operational semantics is the same as for A2, and the same as in the textbook.
+ The operational semantics is the same as for A2 (Rust,Swift)
 
 You should first write down the typing rules for your language. You are allowed, even highly encouraged, to improve the A2 grammar to make your life easier, so that typing rules can be made simpler. Your task is to have your interpreter first do type reconstruction for all inputs before any reduction is done. Decent error messages should be returned for untypable terms. The interpreter should then proceed as in assignment 2.
 
